@@ -1,0 +1,4 @@
+baseURL = "https://greetingcardsjoss.vercel.app"
+languageCode = "en-us"
+title = "Greeting Cards Happy"
+theme = "tale-hugo-master"
